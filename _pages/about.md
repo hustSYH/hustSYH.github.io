@@ -17,9 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+
+
+欢迎来到我的主页，我是程育奇，在华中科技大学取得了学士学位（2020）和硕士学位（2023，导师：李文龙）.目前我在华中科技大学攻读博士学位，导师为沈卫明院士。
+
+我的研究方向围绕工业视觉检测展开，涉及多视图点云的机器人采集、精简、配准、异常检测等. 后续研究重点为构建可实际使用的点云异常检测方法与更加通用的3D特征提取器。除了学术研究，我有很大的热情和兴趣参与实际项目的落地，目前我的研究成果已经在航空叶片、核电堆芯、汽车自动化产线等场景实现了应用。
+如果对我的学术研究或落地项目感兴趣，任何时候都可以联系我，我非常乐意与您进行交流！
+我未来十分希望能将学术研究的方法推向实际使用，如果有企业愿意给我提供这个机会，请联系我！
+
+
 
 
 # 🔥 News
