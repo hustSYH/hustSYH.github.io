@@ -272,11 +272,11 @@ Mobile E-Ink Screen Surface Defect Detection
 
 
 # 🥇 Honors and Awards
-- **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023.
-- **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. 
-- **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021.
-- **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. 
-- **Provincial Second Price**, China International College Students’ Innovation Competition. 2024.
+- **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023. (leader)
+- **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. (participator)
+- **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021. (leader)
+- **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. (leader)
+- **Provincial Second Price**, China International College Students’ Innovation Competition. 2024. (leader)
 - **Future STAR** (Highest honors in School of Mechanical Science and Engineering). 2024.
 - **National Scholarship** (Rank first in the major). 2022.
 - **Merit Student**, 2021, 2022.
