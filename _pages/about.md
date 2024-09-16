@@ -69,7 +69,7 @@ redirect_from:
 - **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. 
 - **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021.
 - **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. 
-- **Provincial First Price**, China International College Students’ Innovation Competition. 2024.
+- **Provincial Second Price**, China International College Students’ Innovation Competition. 2024.
 - **Future STAR** (Highest honors in School of Mechanical Science and Engineering). 2024.
 - **National Scholarship** (Rank first in the major). 2022.
 - **Merit Student**, 2021, 2022.
