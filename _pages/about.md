@@ -63,25 +63,25 @@ redirect_from:
   <li id="FA-Pub1"> 
     MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
-    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024.
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024. (JCR Q1)
   </li>
 
-  <li id="FA-Pub5"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  <li id="FA-Pub2"> 
+    A novel cooling hole inspection method for turbine blade using 3D reconstruction of stereo vision <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0/meta">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Gang Wang, Wei Xu, Qingyu Peng<br>
+    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2021. (JCR Q1)
   </li>
 
-  <li id="FA-Pub5"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  <li id="FA-Pub3"> 
+    A novel point cloud simplification method using local conditional information <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1/meta">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li, Cheng Jiang, Dongfang Wang, Jincheng Mao*, Wei Xu <br>
+    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2022. (JCR Q1)
   </li>
 
-  <li id="FA-Pub5"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  <li id="FA-Pub4"> 
+    A point cloud semantic segmentation method for nuclear power reactors based on RandLA-Net Model <a href="http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>,  Dongfang Wang, Qingyu Peng, Wenlong Li* <br>
+    <i>Journal of Advanced Manufacturing Science and Technology<strong>(JAMST).</strong></i> 2023.
   </li>
 
   <li id="FA-Pub5"> 
