@@ -57,43 +57,18 @@ redirect_from:
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
 <ol reversed>
+
+
+
+  
   <li id="FA-Pub5"> 
     AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao</span>, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng, Weiming Shen*, Giacomo Boracchi <br>
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
-  <li id="FA-Pub6"> 
-    Complementary pseudo multimodal feature for point cloud anomaly detection <a href="https://www.sciencedirect.com/science/article/pii/S0031320324005120">[Paper]</a> <a href="https://github.com/caoyunkang/CPMF">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Weiming Shen* <br>
-    <i>Pattern Recognition <strong>(PR).</strong></i> 2024.
-  </li>
-
-  <li id="FA-Pub4"> 
-    BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization <a href="https://ieeexplore.ieee.org/document/10402554">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC).</strong></i> 2024.
-  </li>
-
-  <li id="FA-Pub3"> 
-    Collaborative discrepancy optimization for reliable image anomaly localization <a href="https://ieeexplore.ieee.org/document/10034849">[Paper]</a> <a href="https://github.com/caoyunkang/CDO">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Zhaoge Liu, Weiming Shen* <br>
-    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII).</strong></i> 2023.
-  </li>
-
-  <li id="FA-Pub2"> 
-    High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation <a href="https://ieeexplore.ieee.org/abstract/document/10260338">[Paper]</a>  <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Weiming Shen* <br>
-    <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2023.
-  </li>
-
-  <li id="FA-Pub1"> 
-    Informative knowledge distillation for image anomaly segmentation <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004038">[Paper]</a> <a href="https://github.com/caoyunkang/IKD">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Qian Wan, Weiming Shen*, Liang Gao <br>
-    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2022.
-  </li>
+  
 </ol>
 
 
@@ -101,28 +76,14 @@ redirect_from:
 <ol reversed>
 
 
-  <li id="OT-Manuscript4"> 
-    CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
-    Han Sun, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Olga Fink* (under review) <br>
-  </li>
 
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
-    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
+    Yuxin Jiang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yiheng Zhang, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
   </li>
 
-  <li id="OT-Manuscript2"> 
-    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection <br> 
-    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (reject and resubmit)
-  </li>
-
-  <li id="OT-Manuscript1"> 
-    URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection <br> 
-    Wei Luo, Peng Xing, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Weiming Shen, Zechao Li* (under review) <br>
-  </li>
 </ol>
 
 
