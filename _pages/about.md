@@ -43,11 +43,11 @@ redirect_from:
 - *2023.06*: &nbsp;🎉🎉 Our paper addressed [point cloud semantic segmentation](http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010) is accepted by Journal of Advanced Manufacturing Science and Technology.
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge). Press Coverage: [华中科技大学](https://mp.weixin.qq.com/s/HJRslaPxo1RipTwom2mngQ), [我爱计算机视觉](https://mp.weixin.qq.com/s/_mJKn4o_U_VjEqlz7DXUFQ).
 - *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
-- *2023.03*: &nbsp;🎉🎉 We get the **National First price**, "Challenge Cup" National College Student Business Plan Competition.
+- *2023.03*: &nbsp;🎉🎉 We get the **National First Price**, "Challenge Cup" National College Student Business Plan Competition.
 - *2022.08*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Simplification](https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1) is accepted by Measurement Science and Technology.
-- *2022.06*: &nbsp;🎉🎉 We get the **Provincial First price**, "Challenge Cup" National College Student Business Plan Competition.
+- *2022.06*: &nbsp;🎉🎉 We get the **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition.
 - *2021.11*: &nbsp;🎉🎉 Our paper addressed [Surface Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
-- *2021.09*: &nbsp;🎉🎉 We get the **National third prize**, China Postgraduate Robot Innovation and Design Competition.
+- *2021.09*: &nbsp;🎉🎉 We get the **National Third Prize**, China Postgraduate Robot Innovation and Design Competition.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -65,8 +65,17 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023.
+- **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. 
+- **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021.
+- **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. 
+- **Provincial First Price**, China International College Students’ Innovation Competition. 2024.
+- **Future STAR** (Highest honors in School of Mechanical Science and Engineering). 2024.
+- **National Scholarship** (Rank first in the major). 2022.
+- **Merit Student**, 2021, 2022.
+- **The First Prize Scholarship**, 2020,2021,2022,2023.
+
+
 
 # 📖 Educations
 **- ### *2023.10 - present, Politecnico di Milano*
