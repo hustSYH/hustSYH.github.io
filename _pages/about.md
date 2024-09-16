@@ -85,11 +85,16 @@ redirect_from:
   </li>
 
   <li id="FA-Pub5"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection <a href="https://arxiv.org/abs/2406.07176">[Paper]</a> <a href="https://github.com/hustCYQ/RAD-dataset">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Rui Chen, Weiming Shen <br>
+    <i>IEEE 20th International Conference on Automation Science and Engineering <strong>(CASE).</strong></i> 2024.
   </li>
 
+   <li id="FA-Pub5"> 
+    An illumination-robust edge detection method for nuclear fuel assembly deformation measurement <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
+    Rui Chen, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wentao Yang, Bin Yang and Wenlong Li <br>
+    <i>2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering <strong>(MAEIE).</strong></i> 2023.
+  </li>
   
   <li id="FA-Pub5"> 
     AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
