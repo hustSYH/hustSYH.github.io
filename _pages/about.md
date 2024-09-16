@@ -165,10 +165,11 @@ redirect_from:
   </li>
 
 
-
-
-
-
+  <li id="FA-Manuscript3"> 
+    A robust probability-based joint registration method of multiple point clouds considering local consistency <br> 
+    Lingjie Su, Wei Xu*, Shuyang Zhao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li <br>
+    <i>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong></i>. (Under Review)
+  </li>
 
 
 </ol>
