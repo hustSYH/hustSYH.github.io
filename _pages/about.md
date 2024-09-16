@@ -46,7 +46,7 @@ redirect_from:
 - *2023.03*: &nbsp;🎉🎉 We get the **National First Price**, "Challenge Cup" National College Student Business Plan Competition.
 - *2022.08*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Simplification](https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1) is accepted by Measurement Science and Technology.
 - *2022.06*: &nbsp;🎉🎉 We get the **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition.
-- *2021.11*: &nbsp;🎉🎉 Our paper addressed [Surface Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
+- *2021.11*: &nbsp;🎉🎉 Our paper addressed [Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
 - *2021.09*: &nbsp;🎉🎉 We get the **National Third Prize**, China Postgraduate Robot Innovation and Design Competition.
 # 📝 Publications 
 
@@ -184,10 +184,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/PC0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-1111111111111111
+Multi-view registration of car body
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
+- An industrial robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Due to the positioning deviation of the robot, the point clouds collected by various poses inevitably have uneven density and stratification, leading to a significant compromise in the overall quality of multiview point clouds.
@@ -199,15 +199,15 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-project name 某某检测项目
-
+Inspection of turbine blade cooling holes
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 项目介绍
-- 111
+- An industrial robot is equipped with binocular camera to collect images of the blade, and then the number and aperture of cooling holes are calculated by the distribution property and binocular reconstruction principle.
+
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 111
+- Complex blade shape; holes distributed on the curved surface; weak feature.
+
 </div>
 </div>
 
@@ -218,12 +218,12 @@ project name 某某检测项目
 
 
 Panoramic image stitching and dimension calculation for nuclear fuel assemblies.
+
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 项目介绍
-- 111
+- The videos are recorded when pulling the fuel assembly under water. Then the videos are utilized to restore the panoramic images to further calculate the key dimensions.
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 111
+- Radiation noise, thermal disturbance, weak texture, large-scale object.
 
 
 </div>
@@ -234,15 +234,14 @@ Panoramic image stitching and dimension calculation for nuclear fuel assemblies.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/CASE0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-project name 某某检测项目
-
+Foreign object recognition
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 项目介绍
-- 111
+- Instances of machine wear or human error may result in foreign objects falling onto the platform, thereby disrupting operations and posing safety hazards. Consequently, detecting foreign objects on the work platform is framed as an unsupervised anomaly detection challenge.
+
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 111
+- Abnormal data are hard to collect, uneven illumination, domain gap.
 </div>
 </div>
 
@@ -251,16 +250,15 @@ project name 某某检测项目
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Phone0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-project name 某某检测项目
-
+Mobile E-Ink Screen Surface Defect Detection
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 项目介绍
-- 111
+- A high-resolution detection device is built to detect abnormal products by using unsupervised anomaly detection technology.
+
 
 [**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- 111
+- tiny defect, illumination dependent, abnormal data are hard to collect.
 </div>
 </div>
 
