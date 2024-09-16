@@ -179,12 +179,12 @@ redirect_from:
 
 
 
-# 📝 Projects 
+# 💻 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/PC0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
+1111111111111111
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
 
@@ -204,6 +204,8 @@ project name 某某检测项目
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 项目介绍
 - 111
+
+[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 111
 </div>
 </div>
@@ -212,13 +214,17 @@ project name 某某检测项目
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Stitch0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-project name 某某检测项目
 
 
+Panoramic image stitching and dimension calculation for nuclear fuel assemblies.
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 项目介绍
 - 111
+
+[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 111
+
+
 </div>
 </div>
 
@@ -233,6 +239,8 @@ project name 某某检测项目
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 项目介绍
 - 111
+
+[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 111
 </div>
 </div>
@@ -248,6 +256,9 @@ project name 某某检测项目
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 项目介绍
 - 111
+
+[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - 111
 </div>
 </div>
@@ -256,7 +267,7 @@ project name 某某检测项目
 
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023.
 - **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. 
 - **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021.
