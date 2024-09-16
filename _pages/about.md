@@ -185,6 +185,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 1111111111111111
+
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
 
