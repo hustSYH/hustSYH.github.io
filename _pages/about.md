@@ -181,7 +181,7 @@ redirect_from:
 
 # 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PC0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 project name 某某检测项目
@@ -194,6 +194,64 @@ project name 某某检测项目
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+project name 某某检测项目
+
+
+[**主要内容**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 项目介绍
+- 111
+- 111
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Stitch0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+project name 某某检测项目
+
+
+[**主要内容**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 项目介绍
+- 111
+- 111
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/CASE0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+project name 某某检测项目
+
+
+[**主要内容**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 项目介绍
+- 111
+- 111
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Phone0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+project name 某某检测项目
+
+
+[**主要内容**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 项目介绍
+- 111
+- 111
+</div>
+</div>
 
 
 
