@@ -90,17 +90,28 @@ redirect_from:
     <i>IEEE 20th International Conference on Automation Science and Engineering <strong>(CASE).</strong></i> 2024.
   </li>
 
-   <li id="FA-Pub5"> 
+  <li id="FA-Pub8"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+
+
+  <li id="FA-Pub7"> 
+    An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
+    Lingjie Su, Wenlong Li, Yuqi Cheng, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
+    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2024. (JCR Q1)
+  </li>  
+
+   <li id="FA-Pub6"> 
     An illumination-robust edge detection method for nuclear fuel assembly deformation measurement <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
     Rui Chen, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wentao Yang, Bin Yang and Wenlong Li <br>
     <i>2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering <strong>(MAEIE).</strong></i> 2023.
   </li>
   
-  <li id="FA-Pub5"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
-  </li>
+
+  
+
   
 </ol>
 
