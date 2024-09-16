@@ -98,6 +98,15 @@ redirect_from:
 
 
   <li id="FA-Pub7"> 
+    A panoramic image stitching method for nuclear fuel assemblies <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d/meta">[Paper]</a> <br> 
+    Bin Yang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Rui Chen, Li Li, Ran Guo, Hehui Geng, Tao Liu, and Wenlong Li <br>
+    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2023. (JCR Q1)
+  </li>  
+
+
+
+
+  <li id="FA-Pub7"> 
     An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e/meta">[Paper]</a> <br> 
     Lingjie Su, Wenlong Li*, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
     <i>Measurement Science and Technology <strong>(MST).</strong></i> 2024. (JCR Q1)
