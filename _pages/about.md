@@ -60,7 +60,35 @@ redirect_from:
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
 <ol reversed>
 
+  <li id="FA-Pub1"> 
+    MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024.
+  </li>
 
+  <li id="FA-Pub5"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+
+  <li id="FA-Pub5"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+
+  <li id="FA-Pub5"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+
+  <li id="FA-Pub5"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
+    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
 
   
   <li id="FA-Pub5"> 
