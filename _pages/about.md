@@ -293,9 +293,9 @@ Mobile E-Ink Screen Surface Defect Detection
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference presentation
+- *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.07 - 2019.08*, Huawei(华为), China. Design of Huawei cloud fault diagnosis algorithm.
+- *2022.05 - 2022.08*, Meituan(美团), China. Research on 3D object detection in UAV delivery.
