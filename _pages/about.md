@@ -57,7 +57,7 @@ redirect_from:
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
+<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
 
   <li id="FA-Pub1"> 
@@ -98,8 +98,8 @@ redirect_from:
 
 
   <li id="FA-Pub7"> 
-    An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
-    Lingjie Su, Wenlong Li, Yuqi Cheng, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
+    An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e/meta">[Paper]</a> <br> 
+    Lingjie Su, Wenlong Li, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
     <i>Measurement Science and Technology <strong>(MST).</strong></i> 2024. (JCR Q1)
   </li>  
 
@@ -116,9 +116,22 @@ redirect_from:
 </ol>
 
 
-<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Manuscripts under Review</h2>
+<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
 
+
+  <li id="FA-Manuscript1"> 
+    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
+  </li>
+
+
+  <li id="FA-Manuscript1"> 
+    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
+    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
+  </li>
 
 
 
@@ -127,6 +140,27 @@ redirect_from:
     Yuxin Jiang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yiheng Zhang, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
   </li>
+
+
+
+  <li id="FA-Manuscript5"> 
+    Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
+    Yunkang Cao, Xiaohao Xu, Chen Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Zongwei Du, Liang Gao, Weiming Shen* <br>
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (reject and resubmit)
+  </li>
+
+
+  <li id="FA-Manuscript3"> 
+    A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
+    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen* (under review) <br>
+  </li>
+
+
+
+
+
+
+
 
 </ol>
 
