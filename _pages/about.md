@@ -145,6 +145,13 @@ If you are interested in my academic researches or projects, please feel free to
   </li>
 
 
+  <li id="OT-Manuscript3"> 
+    A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
+    Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
+    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. (Under Review)
+  </li>
+
+
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
