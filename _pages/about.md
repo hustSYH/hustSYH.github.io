@@ -304,4 +304,4 @@ Mobile E-Ink Screen Surface Defect Detection
 - *2019.07 - 2019.08*, Huawei(华为), China. Design of Huawei cloud fault diagnosis algorithm.
 - *2022.05 - 2022.08*, Meituan(美团), China. Research on 3D object detection in UAV delivery.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>  
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
