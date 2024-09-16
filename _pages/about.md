@@ -32,14 +32,18 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2407.15795) is accepted by ECCV.
+- *2024.06*: &nbsp;🎉🎉 We release [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)
+- *2024.05*: &nbsp;🎉🎉 Our paper addressed [Robust Image Anomaly Detection](https://arxiv.org/abs/2406.07176) is accepted by 2024 IEEE 20th International Conference on Automation Science and Engineering(IEEE CASE2024).
+- *2024.05*: &nbsp;🎉🎉 Our paper addressed [Illumination-Robust Edge Detection](https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001) is published by 2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering(MAEIE-2023).
+- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Multi-view Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10565771) is accepted by IEEE Transactions on Instrumentation and Measurement.
+- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Mesh Data Filtering](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e) is accepted by Measurement Science and Technology.
+- *2023.10*: &nbsp;🎉🎉 Our paper addressed [Panoramic Image Stitching](https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d)  is accepted by Measurement Science and Technology.
+- *2023.06*: &nbsp;🎉🎉 Our paper addressed [point cloud semantic segmentation](http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010) is accepted by Journal of Advanced Manufacturing Science and Technology.
+- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge). Press Coverage: [华中科技大学](https://mp.weixin.qq.com/s/HJRslaPxo1RipTwom2mngQ), [我爱计算机视觉](https://mp.weixin.qq.com/s/_mJKn4o_U_VjEqlz7DXUFQ).
+- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
+- *2022.08*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Simplification](https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1) is accepted by Measurement Science and Technology.
+- *2021.11*: &nbsp;🎉🎉 Our paper addressed [Surface Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
