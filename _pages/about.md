@@ -122,14 +122,14 @@ redirect_from:
 
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong~Li<br>
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
     <i>Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
   </li>
 
 
   <li id="FA-Manuscript1"> 
     Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <br> 
-    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
   </li>
 
