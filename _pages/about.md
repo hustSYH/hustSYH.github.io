@@ -122,15 +122,15 @@ redirect_from:
 
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong~Li<br>
+    <i>Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
   </li>
 
 
   <li id="FA-Manuscript1"> 
-    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
+    Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <br> 
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
   </li>
 
 
@@ -138,7 +138,7 @@ redirect_from:
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
     Yuxin Jiang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yiheng Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (Under Review)
   </li>
 
 
@@ -146,13 +146,13 @@ redirect_from:
   <li id="FA-Manuscript5"> 
     Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     Yunkang Cao, Xiaohao Xu, Chen Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (reject and resubmit)
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (Under Review)
   </li>
 
 
   <li id="FA-Manuscript3"> 
     A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
-    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen* (under review) <br>
+    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen* (Under Review) <br>
   </li>
 
 
