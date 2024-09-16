@@ -146,20 +146,16 @@ If you are interested in my academic researches or projects, please feel free to
 
 
   <li id="OT-Manuscript3"> 
-    A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
-    Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. (Under Review)
-  </li>
-
-
-
-  <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
     Yuxin Jiang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yiheng Zhang, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (Under Review)
   </li>
 
-
+  <li id="OT-Manuscript3"> 
+    A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
+    Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
+    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. (Under Review)
+  </li>
 
   <li id="FA-Manuscript5"> 
     Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
