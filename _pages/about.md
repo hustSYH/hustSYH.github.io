@@ -298,7 +298,7 @@ Mobile E-Ink Screen Surface Defect Detection
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
 
 # 💬 Conference Presentation
-- *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024. 
+- *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024, Italy.
 
 # 💻 Internships
 - *2019.07 - 2019.08*, Huawei(华为), China. Design of Huawei cloud fault diagnosis algorithm.
