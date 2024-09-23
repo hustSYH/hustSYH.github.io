@@ -34,6 +34,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 We released [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://export.arxiv.org/abs/2409.13162) for Zero-shot Point Cloud Anomaly Detection.
 - *2024.09*: &nbsp;🎉🎉 We released [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) for Multi-view Point Cloud Registration.
 - *2024.08*: &nbsp;🎉🎉 We get the **Provincial Second Prize**, China International College Students’ Innovation Competition.
 - *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2407.15795) is accepted by ECCV.
