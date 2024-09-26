@@ -5,7 +5,7 @@ Yuqi Cheng
 
 <div align="center">
 
-Welcome to my [homepage](hustcyq.github.io): [hustcyq.github.io](hustcyq.github.io)
+Welcome to my [homepage](https://hustcyq.github.com/): [hustcyq.github.io](https://hustcyq.github.com/)
 
 
 </div>
