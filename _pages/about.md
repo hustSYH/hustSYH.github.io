@@ -69,7 +69,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Pub1"> 
     MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
-    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024. (JCR Q1)
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024. (JCR Q1, Top)
   </li>
 
   <li id="FA-Pub2"> 
@@ -87,7 +87,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Pub4"> 
     A point cloud semantic segmentation method for nuclear power reactors based on RandLA-Net Model <a href="http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>,  Dongfang Wang, Qingyu Peng, Wenlong Li* <br>
-    <i>Journal of Advanced Manufacturing Science and Technology<strong>(JAMST).</strong></i> 2023.
+    <i>Journal of Advanced Manufacturing Science and Technology<strong>(JAMST).</strong></i> 2023. (CiteScore 6.4, Q1)
   </li>
 
   <li id="FA-Pub5"> 
@@ -105,7 +105,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="OT-Manuscript3"> 
     A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
     Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024.
+    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, Top)
   </li>
 
   <li id="FA-Pub7"> 
