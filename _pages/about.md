@@ -35,6 +35,8 @@ If you are interested in my academic researches or projects, please feel free to
 
 # 🔥 News
 
+- *2025.01*: &nbsp;🎉🎉 I won the **2024 Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM).
+- *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2305.10724) has been accepted by IEEE Transactions on Cybernetics.
 - *2024.10*: &nbsp;🎉🎉 Our paper addressed [Path Error Compensation for Robotic Milling](https://ieeexplore.ieee.org/abstract/document/10737000) is accepted by IEEE/ASME Transactions on Mechatronics.
 - *2024.09*: &nbsp;🎉🎉 We released [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://export.arxiv.org/abs/2409.13162) for Zero-shot Point Cloud Anomaly Detection.
 - *2024.09*: &nbsp;🎉🎉 We released [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) for Multi-view Point Cloud Registration.
@@ -277,6 +279,7 @@ Mobile E-Ink Screen Surface Defect Detection
 
 
 # 🥇 Honors and Awards
+- **Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
 - **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
 - **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. (Participator)
 - **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021. (Leader)
