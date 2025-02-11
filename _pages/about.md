@@ -72,7 +72,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript1"> 
     Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
-    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (JCR Q1, Top)
+    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> 2025. (JCR Q1, Top)
   </li>
 
 
