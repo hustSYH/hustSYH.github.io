@@ -182,9 +182,8 @@ If you are interested in my academic researches or projects, please feel free to
 
 
   <li id="FA-Manuscript3"> 
-    A robust probability-based joint registration method of multiple point clouds considering local consistency <br> 
+    A robust probability-based joint registration method of multiple point clouds considering local consistency <a href="https://arxiv.org/abs/2409.09682">[Paper]</a> <br> 
     Lingjie Su, Wei Xu*, Shuyang Zhao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li <br>
-    <i>IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong></i>. (Under Review)
   </li>
 
 
