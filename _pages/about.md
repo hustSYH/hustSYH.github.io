@@ -72,7 +72,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript1"> 
     Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
-    <i>Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
+    <i>Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (JCR Q1, Top)
   </li>
 
 
@@ -115,7 +115,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript5"> 
     Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     Yunkang Cao, Xiaohao Xu, Chen Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (Under Review)
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 2025. (JCR Q1, Top)
   </li>
 
 
