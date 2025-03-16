@@ -296,8 +296,8 @@ Mobile E-Ink Screen Surface Defect Detection
 - **The First Prize Scholarship**, 2020,2021,2022,2023.
 
 # 🎓📚 Academic Service 
-- *Journal Reviewer*, IEEE TSMC, IEEE TASE, IEEE TMM, IEEE TII, IEEE TIM, IEEE RAL, etc.
-- *Conference Reviewer*, ICCV, ICRA, IROS, etc.
+- **Journal Reviewer**: IEEE TSMC, IEEE TASE, IEEE TMM, IEEE TII, IEEE TIM, IEEE RAL, etc.
+- **Conference Reviewer**: ICCV, ICRA, IROS, etc.
 
 # 📖 Educations
                           
@@ -312,7 +312,7 @@ Mobile E-Ink Screen Surface Defect Detection
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
 
-# 💬 Conference Presentation
+# 💬 Invited Talks
 - *2024.08*, "RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection", CASE2024, Italy.
 
 # 💻 Internships
