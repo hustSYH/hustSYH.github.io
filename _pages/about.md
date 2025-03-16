@@ -295,7 +295,9 @@ Mobile E-Ink Screen Surface Defect Detection
 - **Merit Student**, 2021, 2022.
 - **The First Prize Scholarship**, 2020,2021,2022,2023.
 
-
+# 🎓📚 Academic Service 
+- *Journal Reviewer*, IEEE TSMC, IEEE TASE, IEEE TMM, IEEE TII, IEEE TIM, IEEE RAL, etc.
+- *Conference Reviewer*, ICCV, ICRA, IROS, etc.
 
 # 📖 Educations
                           
