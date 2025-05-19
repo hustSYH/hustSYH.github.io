@@ -168,7 +168,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript1"> 
     IA3D: Efficient Irregularity Awareness 3D Anomaly Detection <br> 
      <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Industrial Informatics(IEEE TII)</strong></i> . (Under Review)
+    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII)</strong></i> . (Under Review)
   </li>
 
   <li id="FA-Manuscript1"> 
