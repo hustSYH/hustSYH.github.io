@@ -165,6 +165,17 @@ If you are interested in my academic researches or projects, please feel free to
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
   </li>
 
+  <li id="FA-Manuscript1"> 
+    IA3D: Efficient Irregularity Awareness 3D Anomaly Detection <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
+    <i>IEEE Transactions on Industrial Informatics(IEEE TII)</strong></i> . (Under Review)
+  </li>
+
+  <li id="FA-Manuscript1"> 
+    Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <br> 
+     Yunkang Cao#, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
+  </li>
+
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
