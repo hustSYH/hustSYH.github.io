@@ -34,7 +34,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 We won the third prize in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
+- *2025.05*: &nbsp;🎉🎉 We won the **third prize** in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
 - *2025.05*: &nbsp;🎉🎉 We released  [Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark](https://arxiv.org/abs/2505.10996) for Multi-view and Multi-illumination Anomaly Detection.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Unified Anomaly Detection]() has been accepted by CVPR.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE Transactions on Automation Science and Engineering.
