@@ -108,6 +108,14 @@ If you are interested in my academic researches or projects, please feel free to
     <i>IEEE 20th International Conference on Automation Science and Engineering <strong>(CASE).</strong></i> 2024.
   </li>
 
+
+  <li id="FA-Pub8"> 
+    Exploring intrinsic normal prototypes within a single image for universal anomaly detection <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/luow23/INP-Former">[Code]</a> <br> 
+    Wei Luo, Yunkang Cao, Haiming Yao, Xiaotian Zhang, Jianan Lou, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen, Wenyong Yu* <br>
+    <i> Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
+  </li>
+
+
   <li id="FA-Pub8"> 
     AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
     Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
@@ -124,7 +132,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="OT-Manuscript3"> 
     A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
     Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, Top)
+    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, To)
   </li>
 
   <li id="FA-Pub7"> 
@@ -147,9 +155,22 @@ If you are interested in my academic researches or projects, please feel free to
     Rui Chen, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wentao Yang, Bin Yang and Wenlong Li* <br>
     <i>2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering <strong>(MAEIE).</strong></i> 2023.
   </li>
-  
 
-  
+
+
+  <li id="FA-Pub6"> 
+    Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
+    Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
+    <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
+  </li>
+
+  <li id="FA-Pub6"> 
+    Levarging Learning Bias for Noisy Anomaly Detection <br> 
+    Yuxin Zhang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yihan Sun, Weiming Shen* <br>
+    <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
+  </li>
+
+
 
   
 </ol>
