@@ -34,6 +34,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉Our paper addressed [3D Anomaly Detection]() and [Anomaly Detection with Noise] has been accepted by IEEE SMC 2025.
 - *2025.05*: &nbsp;🎉🎉 We won the **third prize** in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
 - *2025.05*: &nbsp;🎉🎉 We released  [Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark](https://arxiv.org/abs/2505.10996) for Multi-view and Multi-illumination Anomaly Detection.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Unified Anomaly Detection]() has been accepted by CVPR.
@@ -187,9 +188,9 @@ If you are interested in my academic researches or projects, please feel free to
   </li>
 
   <li id="FA-Manuscript1"> 
-    IA3D: Efficient Irregularity Awareness 3D Anomaly Detection <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII)</strong></i> . (Under Review)
+    Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao*, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
+    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
   </li>
 
   <li id="FA-Manuscript1"> 
