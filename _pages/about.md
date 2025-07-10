@@ -198,6 +198,16 @@ If you are interested in my academic researches or projects, please feel free to
      Yunkang Cao#, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
   </li>
 
+  <li id="FA-Manuscript1"> 
+    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yihan Sun#, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
+    <i>Submitted to AAAI 2026.</strong></i> .
+  </li>
+
+
+
+
+
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
