@@ -196,12 +196,13 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript1"> 
     Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <br> 
      Yunkang Cao#, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
+    <i>Submitted to Neural Information Processing Systems <strong>(NeurIPS 2025)</strong></i>. (Under Review)
   </li>
 
   <li id="FA-Manuscript1"> 
     Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <br> 
      <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yihan Sun#, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
-    <i>Submitted to AAAI 2026.</strong></i> .
+    <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
   </li>
 
 
