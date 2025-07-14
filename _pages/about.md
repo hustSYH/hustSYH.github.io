@@ -83,7 +83,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Pub1"> 
     MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
-    <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024. (JCR Q1, Top)
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM).</strong></i> 2024. (JCR Q1, Top)
   </li>
 
   <li id="FA-Pub2"> 
@@ -134,7 +134,7 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="OT-Manuscript3"> 
     A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
     Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, To)
+    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, Top)
   </li>
 
   <li id="FA-Pub7"> 
@@ -185,13 +185,13 @@ If you are interested in my academic researches or projects, please feel free to
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a> <br> 
      <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
+    <i>Submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (Under Review)
   </li>
 
   <li id="FA-Manuscript1"> 
     Irregularity-Aware 3D Anomaly Detection for Product Quality Control <br> 
      <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao*, Haiming Yao, Wei Luo, Jiangning Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
+    <i>Submitted to IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> . (Under Review)
   </li>
 
   <li id="FA-Manuscript1"> 
@@ -206,7 +206,11 @@ If you are interested in my academic researches or projects, please feel free to
     <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
   </li>
 
-
+  <li id="FA-Manuscript1"> 
+    A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Haiming Yao, Wei Luo, Hui Zhang, Weiming Shen* <br>
+    <i>Submitted to Journal of Manufacturing Systems <strong>(JMS)</strong></i>.
+  </li>
 
 
 
@@ -224,7 +228,7 @@ If you are interested in my academic researches or projects, please feel free to
 
   <li id="FA-Manuscript3"> 
     A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
-    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen* (Under Review) <br>
+    Yunkang Cao, Xiaohao Xu, Jiangning Zhang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Xiaonan Huang, Guansong Pang, Weiming Shen*<br>
   </li>
 
 
