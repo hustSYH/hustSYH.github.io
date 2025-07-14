@@ -208,7 +208,7 @@ If you are interested in my academic researches or projects, please feel free to
 
   <li id="FA-Manuscript1"> 
     A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Haiming Yao, Wei Luo, Hui Zhang, Weiming Shen* <br>
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Haiming Yao, Wei Luo, Cheng Jiang, Hui Zhang, Weiming Shen* <br>
     <i>Submitted to Journal of Manufacturing Systems <strong>(JMS)</strong></i>.
   </li>
 
