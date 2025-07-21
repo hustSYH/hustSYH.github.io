@@ -34,6 +34,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 We released  [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378).
 - *2025.07*: &nbsp;🎉🎉 We released  [Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects](https://arxiv.org/abs/2507.07435) for High-resolution 3D Anomaly Detection.
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection]() and [Anomaly Detection with Noise]() has been accepted by IEEE SMC 2025.
 - *2025.05*: &nbsp;🎉🎉 We won the **third prize** in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
@@ -207,7 +208,7 @@ If you are interested in my academic researches or projects, please feel free to
   </li>
 
   <li id="FA-Manuscript1"> 
-    A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects <br> 
+    A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects  <a href="https://arxiv.org/abs/2507.13378">[Paper]</a> <br> 
      <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yunkang Cao#, Haiming Yao, Wei Luo, Cheng Jiang, Hui Zhang, Weiming Shen* <br>
     <i>Submitted to Journal of Manufacturing Systems <strong>(JMS)</strong></i>.
   </li>
