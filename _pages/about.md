@@ -99,10 +99,10 @@ Research on 3D measurement and anomaly detection of battery pack
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/multi-illumination.png.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Inspection of turbine blade cooling holes
+Multi-view and multi-illumination defect inspection prototype equipment
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An industrial robot is equipped with binocular camera to collect images of the blade, and then the number and aperture of cooling holes are calculated by the distribution property and binocular reconstruction principle.
