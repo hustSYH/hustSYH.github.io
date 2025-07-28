@@ -99,71 +99,25 @@ Research on 3D measurement and anomaly detection of battery pack
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/multi-illumination.png.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/multi-illumination.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-view and multi-illumination defect inspection prototype equipment
 
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- An industrial robot is equipped with binocular camera to collect images of the blade, and then the number and aperture of cooling holes are calculated by the distribution property and binocular reconstruction principle.
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In real-world scenarios, the complex interplay between viewpoint and illumination significantly impacts the practical effectiveness of anomaly detection.
 
 
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Complex blade shape; holes distributed on the curved surface; weak feature.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2023</div><img src='images/Stitch0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-Panoramic image stitching and dimension calculation for nuclear fuel assemblies.
-
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The videos are recorded when pulling the fuel assembly under water. Then the videos are utilized to restore the panoramic images to further calculate the key dimensions.
-
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Radiation noise, thermal disturbance, weak texture, large-scale object.
-
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Participated in constructing a multi-view, multi-illumination defect detection prototype for industrial parts, aiming to tackle the complex challenges in real-world environments where viewpoint and illumination undergo simultaneous interactive changes.
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2024</div><img src='images/CASE0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Foreign object recognition
-
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Instances of machine wear or human error may result in foreign objects falling onto the platform, thereby disrupting operations and posing safety hazards. Consequently, detecting foreign objects on the work platform is framed as an unsupervised anomaly detection challenge.
 
 
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Abnormal data are hard to collect, uneven illumination, domain gap.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/Phone0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Mobile E-Ink Screen Surface Defect Detection
-
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A high-resolution detection device is built to detect abnormal products by using unsupervised anomaly detection technology.
-
-
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Tiny defect, illumination dependent, abnormal data are hard to collect.
-</div>
-</div>
 
 
 
