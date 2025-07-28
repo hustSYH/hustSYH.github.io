@@ -19,11 +19,11 @@ redirect_from:
 
 
 
-🌐欢迎来到我的主页！我是孙依晗，在中南大学取得了学士学位（2024）.目前我在华中科技大学攻读硕士学位，导师为[沈卫明院士](http://mse.hust.edu.cn/info/1143/1385.htm)。
+欢迎来到我的主页！我是孙依晗，目前我在华中科技大学攻读硕士学位，导师为[沈卫明院士](http://mse.hust.edu.cn/info/1143/1385.htm)。此前，我在中南大学取得了学士学位（2024），并有幸获得了湖南省优秀毕业生奖。
 
-🌐Welcome to my homepage! I am Yihan Sun(孙依晗). I got my Bachelor's degree from Central South University (2024). Now I am a master student in Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
+Welcome to my homepage! I am Yihan Sun(孙依晗). Currently, I am pursuing a master's degree at Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate). Previously, I obtained my bachelor's degree from Central South University in 2024 and was fortunate to receive the Excellent Graduate Award of Hunan Province.
 
-我的研究方向围绕**工业视觉检测**展开，涉及多视图点云的**机器人采集、精简、配准、异常检测**等. 后续研究重点为构建**可实际使用的点云异常检测方法**与更加**通用的3D特征提取器**。除了学术研究，**我有很大的热情和兴趣参与实际项目的落地，目前我的研究成果已经在航空叶片、核电堆芯、汽车自动化产线等场景实现了应用**。🚀🚀🚀
+我的研究方向围绕**工业视觉检测**展开，涉及多视图点云的**机器人采集、配准、异常检测**等. 后续研究重点为构建**可实际使用的点云异常检测方法**与更加**通用的3D特征提取器**。除了学术研究，**我有很大的热情和兴趣参与实际项目的落地，目前我的研究成果已经在航空叶片、核电堆芯、汽车自动化产线等场景实现了应用**。🚀🚀🚀
 
 My research focuses on **industrial vision inspection**, involving multi-view point cloud **robot acquisition, simplification, registration, anomaly detection**, etc. Subsequent research focuses on **building a practical point cloud anomaly detection method** and a more **general 3D feature extractor**. In addition, **I have great enthusiasm and interest to participate in practical applications, and my researches have been applied in aviation, nuclear power, automobiles and other scenarios**.🚀🚀🚀
 
@@ -33,145 +33,25 @@ If you are interested in my academic researches or projects, please feel free to
 
 
 
-# 🔥 News
-- *2025.07*: &nbsp;🎉🎉 We released  [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378).
-- *2025.07*: &nbsp;🎉🎉 We released  [Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects](https://arxiv.org/abs/2507.07435) for High-resolution 3D Anomaly Detection.
-- *2025.07*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection]() and [Anomaly Detection with Noise]() has been accepted by IEEE SMC 2025.
-- *2025.05*: &nbsp;🎉🎉 We won the **third prize** in [CVPR RoboTwin Dual-Arm Collaboration Challenge](https://developer.d-robotics.cc/en/cvpr-2025-challenge).
-- *2025.05*: &nbsp;🎉🎉 We released  [Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark](https://arxiv.org/abs/2505.10996) for Multi-view and Multi-illumination Anomaly Detection.
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Unified Anomaly Detection]() has been accepted by CVPR.
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE Transactions on Automation Science and Engineering.
-- *2025.01*: &nbsp;🎉🎉 I won the **2024 Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM).
-- *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2305.10724) has been accepted by IEEE Transactions on Cybernetics.
-- *2024.10*: &nbsp;🎉🎉 Our paper addressed [Path Error Compensation for Robotic Milling](https://ieeexplore.ieee.org/abstract/document/10737000) is accepted by IEEE/ASME Transactions on Mechatronics.
-- *2024.09*: &nbsp;🎉🎉 We released [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://export.arxiv.org/abs/2409.13162) for Zero-shot Point Cloud Anomaly Detection.
-- *2024.09*: &nbsp;🎉🎉 We released [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) for Multi-view Point Cloud Registration.
-- *2024.08*: &nbsp;🎉🎉 We get the **Provincial Second Prize**, China International College Students’ Innovation Competition.
-- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2407.15795) is accepted by ECCV.
-- *2024.06*: &nbsp;🎉🎉 We release [A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect](https://arxiv.org/abs/2401.16402)
-- *2024.05*: &nbsp;🎉🎉 Our paper addressed [Robust Image Anomaly Detection](https://arxiv.org/abs/2406.07176) is accepted by 2024 IEEE 20th International Conference on Automation Science and Engineering(IEEE CASE2024).
-- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Multi-view Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10565771) is accepted by IEEE Transactions on Instrumentation and Measurement.
-- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Mesh Data Filtering](https://iopscience.iop.org/article/10.1088/1361-6501/ad317e) is accepted by Measurement Science and Technology.
-- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Illumination-Robust Edge Detection](https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001) is published by 2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering(MAEIE-2023).
-- *2023.10*: &nbsp;🎉🎉 Our paper addressed [Panoramic Image Stitching](https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d)  is accepted by Measurement Science and Technology.
-- *2023.06*: &nbsp;🎉🎉 Our paper addressed [point cloud semantic segmentation](http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010) is accepted by Journal of Advanced Manufacturing Science and Technology.
-- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge). Press Coverage: [华中科技大学](https://mp.weixin.qq.com/s/HJRslaPxo1RipTwom2mngQ), [我爱计算机视觉](https://mp.weixin.qq.com/s/_mJKn4o_U_VjEqlz7DXUFQ).
-- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](https://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
-- *2023.03*: &nbsp;🎉🎉 We get the **National First Price**, "Challenge Cup" National College Student Business Plan Competition.
-- *2022.08*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Simplification](https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1) is accepted by Measurement Science and Technology.
-- *2022.06*: &nbsp;🎉🎉 We get the **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition.
-- *2021.11*: &nbsp;🎉🎉 Our paper addressed [Aperture Measurement](https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0) is accepted by Measurement Science and Technology.
-- *2021.09*: &nbsp;🎉🎉 We get the **National Third Prize**, China Postgraduate Robot Innovation and Design Competition.
+
 # 📝 Publications 
 
 
-<h2>
-  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
+
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
 
-  <li id="FA-Manuscript1"> 
-    Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <a href="https://ieeexplore.ieee.org/document/10898004">[Paper]</a> <a href="https://github.com/hustCYQ/GLFM-Multi-class-3DAD">[Code]</a> <br>  
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
-    <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i> 2025. (JCR Q1, Top)
-  </li>
-
-
-  <li id="FA-Pub1"> 
-    MVGR: Mean-Variance Minimization Global Registration Method for Multiview Point Cloud in Robot Inspection <a href="https://ieeexplore.ieee.org/abstract/document/10565771">[Paper]</a> <a href="NULL">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Dongfang Wang, Hongwen Xing, Wei Xu <br>
-    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM).</strong></i> 2024. (JCR Q1, Top)
-  </li>
-
-  <li id="FA-Pub2"> 
-    A novel cooling hole inspection method for turbine blade using 3D reconstruction of stereo vision <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac39d0/meta">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li*, Cheng Jiang, Gang Wang, Wei Xu, Qingyu Peng<br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2021. (JCR Q1)
-  </li>
-
-  <li id="FA-Pub3"> 
-    A novel point cloud simplification method using local conditional information <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ac8ac1/meta">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wenlong Li, Cheng Jiang, Dongfang Wang, Jincheng Mao*, Wei Xu <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2022. (JCR Q1)
-  </li>
-
-  <li id="FA-Pub4"> 
-    A point cloud semantic segmentation method for nuclear power reactors based on RandLA-Net Model <a href="http://www.jamstjournal.com/cn/article/doi/10.51393/j.jamst.2023010">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>,  Dongfang Wang, Qingyu Peng, Wenlong Li* <br>
-    <i>Journal of Advanced Manufacturing Science and Technology<strong>(JAMST).</strong></i> 2023. (CiteScore 6.4, Q1)
-  </li>
-
-  <li id="FA-Pub5"> 
-    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection <a href="https://arxiv.org/abs/2406.07176">[Paper]</a> <a href="https://github.com/hustCYQ/RAD-dataset">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Rui Chen, Weiming Shen <br>
-    <i>IEEE 20th International Conference on Automation Science and Engineering <strong>(CASE).</strong></i> 2024.
-  </li>
-
-
-  <li id="FA-Pub8"> 
-    Exploring intrinsic normal prototypes within a single image for universal anomaly detection <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/luow23/INP-Former">[Code]</a> <br> 
-    Wei Luo, Yunkang Cao, Haiming Yao, Xiaotian Zhang, Jianan Lou, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen, Wenyong Yu* <br>
-    <i> Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2025.
-  </li>
-
-
-  <li id="FA-Pub8"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
-    Yunkang Cao, Jiangning Zhang, Luca Frittoli, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Weiming Shen*, Giacomo Boracchi <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
-  </li>
-
-  <li id="FA-Manuscript5"> 
-    Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
-    Yunkang Cao, Xiaohao Xu, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Chen Sun, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 2025. (JCR Q1, Top)
-  </li>
-
-
-  <li id="OT-Manuscript3"> 
-    A Novel Path Error Compensation Method for Robotic Milling by Using Hybrid Temporal Network <br> 
-    Qingyu Peng, Wenlong Li*, Cheng Jiang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Wei Xu
-    <i>IEEE/ASME Transactions on Mechatronics <strong>(IEEE/ASME TMECH)</strong></i>. 2024. (JCR Q1, Top)
-  </li>
-
-  <li id="FA-Pub7"> 
-    A panoramic image stitching method for nuclear fuel assemblies <a href="https://iopscience.iop.org/article/10.1088/1361-6501/acfd4d/meta">[Paper]</a> <br> 
-    Bin Yang, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Rui Chen, Li Li, Ran Guo, Hehui Geng, Tao Liu, and Wenlong Li <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2023. (JCR Q1)
-  </li>  
-
-
-
-
-  <li id="FA-Pub7"> 
-    An adaptive anisotropic bilateral filtering method for mesh data in scale space <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad317e/meta">[Paper]</a> <br> 
-    Lingjie Su, Wenlong Li*, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Dongfang Wang, Cheng Jiang, Wentao Yang, Haiwen Zhang, Wei Xu <br>
-    <i>Measurement Science and Technology <strong>(MST).</strong></i> 2024. (JCR Q1)
-  </li>  
-
-   <li id="FA-Pub6"> 
-    An illumination-robust edge detection method for nuclear fuel assembly deformation measurement <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2761/1/012001/meta">[Paper]</a> <br> 
-    Rui Chen, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Wentao Yang, Bin Yang and Wenlong Li* <br>
-    <i>2023 3rd International Conference on Mechanical Automation and Electronic Information Engineering <strong>(MAEIE).</strong></i> 2023.
-  </li>
-
 
 
   <li id="FA-Pub6"> 
     Multi-View Reconstruction with Global Context for 3D Anomaly Detection <br> 
-    Yihan Sun, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
+    <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuqi Cheng, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
 
-  <li id="FA-Pub6"> 
-    Levarging Learning Bias for Noisy Anomaly Detection <br> 
-    Yuxin Zhang, Yunkang Cao, <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yihan Sun, Weiming Shen* <br>
-    <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
-  </li>
 
 
 
