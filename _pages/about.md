@@ -84,7 +84,7 @@ My research focuses on **industrial visual inspection**, covering areas such as 
 
 # 💻 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/scanner.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/scanner.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research on 3D measurement and anomaly detection of battery pack
@@ -125,7 +125,7 @@ Multi-view and multi-illumination defect inspection prototype equipment
 
 # 🥇 Honors and Awards
 - **Excellent Graduates**, 2024.
-- **GEM Innovation and Practice Award** (Highest honors in innovation and practice, with only five undergraduate teams selected each year). 2023.
+- **GEM Innovation and Practice Award** (Highest honors in innovation, with only five undergraduate teams selected each year). 2023.
 - **National Silver Award** The 8th China College Students' "Internet+" Innovation and Entrepreneurship Competition. 2022. (Leader)
 - **National First Price**, National College Students' Mechanical Engineering Innovation and Creativity Competition. 2022. (Leader)
 - **National Second Prize**, Chinese College Students' Service Outsourcing Innovation and Entrepreneurship Competition. 2022. (Leader)
