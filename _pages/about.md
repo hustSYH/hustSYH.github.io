@@ -124,7 +124,7 @@ Multi-view and multi-illumination defect inspection prototype equipment
 
 
 # 🥇 Honors and Awards
-- **Excellent Graduates**, 2024.
+- **Provincial Excellent Graduate**, 2024.
 - **GEM Innovation and Practice Award** (Highest honors in innovation, with only five undergraduate teams selected each year). 2023.
 - **National Silver Award** The 8th China College Students' "Internet+" Innovation and Entrepreneurship Competition. 2022. (Leader)
 - **National First Price**, National College Students' Mechanical Engineering Innovation and Creativity Competition. 2022. (Leader)
