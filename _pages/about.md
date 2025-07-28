@@ -99,7 +99,7 @@ Research on 3D measurement and anomaly detection of battery pack
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2021</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/blade0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Inspection of turbine blade cooling holes
