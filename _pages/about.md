@@ -124,16 +124,15 @@ Multi-view and multi-illumination defect inspection prototype equipment
 
 
 # 🥇 Honors and Awards
-- **Outstanding Reviewers** of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
-- **National First Price**, "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
-- **2nd place** CVPR VAND Zero-shot Anomaly Detection Challenge. 2023. (Participator)
-- **National Third Prize**, China Postgraduate Robot Innovation and Design Competition. 2021. (Leader)
-- **Provincial First Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. (Leader)
-- **Provincial Second Price**, China International College Students’ Innovation Competition. 2024. (Leader)
-- **Future STAR** (Highest honors in School of Mechanical Science and Engineering). 2024.
-- **National Scholarship** (Rank first in the major). 2022.
-- **Merit Student**, 2021, 2022.
-- **The First Prize Scholarship**, 2020,2021,2022,2023.
+- **Excellent Graduates**, 2024.
+- **GEM Innovation and Practice Award** (Highest honors in innovation and practice, with only five undergraduate teams selected each year). 2023.
+- **National Silver Award** The 8th China College Students' "Internet+" Innovation and Entrepreneurship Competition. 2022. (Leader)
+- **National First Price**, National College Students' Mechanical Engineering Innovation and Creativity Competition. 2022. (Leader)
+- **National Second Prize**, Chinese College Students' Service Outsourcing Innovation and Entrepreneurship Competition. 2022. (Leader)
+- **Provincial Second Price**, "Challenge Cup" National College Student Business Plan Competition. 2022. (Leader)
+- **Technology STAR** (Highest honors in School of Mechanical Science and Engineering). 2022.
+- **Excellent Student Cadre**, 2021, 2022, 2023.
+- **The First Prize Scholarship**, 2023, 2024.
 
 
 
