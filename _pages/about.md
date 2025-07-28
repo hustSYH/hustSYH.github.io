@@ -23,11 +23,12 @@ redirect_from:
 
 Welcome to my homepage! I am Yihan Sun(孙依晗). Currently, I am pursuing a master's degree at Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate). Previously, I obtained my bachelor's degree from Central South University in 2024 and was fortunate to receive the Excellent Graduate Award of Hunan Province. Looking ahead, I am excited to pursue a doctoral degree in the upcoming fall of 2027.
 
-我的研究方向围绕**工业视觉检测**展开，涉及图像与点云的机器人采集、异常检测等，硕士期间后续的研究重点为构建**高性能的点云异常检测方法**。如果对我的研究感兴趣，随时可以联系我，我非常乐意与您进行交流！😊😊😊
+我的研究方向围绕**工业视觉检测**展开，涉及图像与点云的机器人采集、异常检测等，硕士期间后续的研究重点为构建**高性能的点云异常检测方法**。如果对我的研究感兴趣，随时可以联系我，我非常乐意与您进行交流！
 
 
-My research focuses on **industrial visual inspection**, covering areas such as robotic acquisition of images and point clouds, anomaly detection, etc. The subsequent research focus during my master's studies will be on developing **high-performance point cloud anomaly detection methods**. If you are interested in my research, please feel free to contact me at any time, and I will be happy to communicate with you!😊😊😊
+My research focuses on **industrial visual inspection**, covering areas such as robotic acquisition of images and point clouds, anomaly detection, etc. The subsequent research focus during my master's studies will be on developing **high-performance point cloud anomaly detection methods**. If you are interested in my research, please feel free to contact me at any time, and I will be happy to communicate with you!
 
+😊😊😊
 
 
 
@@ -83,16 +84,16 @@ My research focuses on **industrial visual inspection**, covering areas such as 
 
 # 💻 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/PC0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/scanner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-view registration of car body
+Research on 3D measurement and anomaly detection of battery pack
 
-[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- An industrial robot is equipped with 3D sensors to collect point clouds from multiple perspectives, and the proposed method MVGR is utilized for multi-view point cloud registration to obtain high-quality car body data.
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Industrial robots equipped with 3D sensors acquire point clouds comprehensively and employ unsupervised anomaly detection technology to identify abnormal products, aiming to provide accurate technical support for quality control and defect recognition of battery packs.
 
-[**Challenge**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Due to the positioning deviation of the robot, the point clouds collected by various poses inevitably have uneven density and stratification, leading to a significant compromise in the overall quality of multiview point clouds.
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Achieved comprehensive collection of surface data for battery packs and attained a relatively high anomaly detection rate.
 </div>
 </div>
 
