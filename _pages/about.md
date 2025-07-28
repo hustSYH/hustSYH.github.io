@@ -84,7 +84,7 @@ My research focuses on **industrial visual inspection**, covering areas such as 
 
 # 💻 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/scanner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work</div><img src='images/scanner.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research on 3D measurement and anomaly detection of battery pack
