@@ -156,4 +156,3 @@ Multi-view and multi-illumination defect inspection prototype equipment
 In my free time, I love sports and enjoy exploring new activities, including playing basketball 🏀, playing badminton 🏸, and cycling 🚴. I also look forward to sharing these sports with friends.
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GEx5UNgsTQZO0HXocUoir2X2jb3xYvYzLS-DAh9BvTY&co=2793de&ct=ffffff'></script>
