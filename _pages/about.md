@@ -99,7 +99,7 @@ Research on 3D measurement and anomaly detection of battery pack
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/multi-illumination.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/multi-illumination.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-view and multi-illumination defect inspection prototype equipment
