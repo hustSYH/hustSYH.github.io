@@ -130,7 +130,7 @@ Multi-view and multi-illumination defect inspection prototype equipment
 - **National First Prize**, National College Students' Mechanical Engineering Innovation and Creativity Competition. 2022. (Leader)
 - **National Second Prize**, Chinese College Students' Service Outsourcing Innovation and Entrepreneurship Competition. 2022. (Leader)
 - **Provincial Second Prize**, "Challenge Cup" National College Student Business Plan Competition. 2022. (Leader)
-- **Technology STAR** (Highest honors in School of Mechatronic Engineering). 2022.
+- **Science and Technology STAR** (Highest honors in School of Mechatronic Engineering). 2022.
 - **Excellent Student Cadre**, 2021, 2022, 2023.
 - **The First Prize Scholarship**, 2023, 2024.
 
