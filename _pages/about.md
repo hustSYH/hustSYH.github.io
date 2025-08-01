@@ -45,7 +45,7 @@ My research focuses on **industrial visual inspection**, covering areas such as 
 
 
   <li id="FA-Pub6"> 
-    Multi-View Reconstruction with Global Context for 3D Anomaly Detection <a href="https://github.com/hustSYH/MVR">[Code]</a> <br> 
+    Multi-View Reconstruction with Global Context for 3D Anomaly Detection <a href="https://arxiv.org/abs/2507.21555">[Paper]</a> <a href="https://github.com/hustSYH/MVR">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuqi Cheng, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
