@@ -49,6 +49,11 @@ My research focuses on **industrial visual inspection**, covering areas such as 
     <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuqi Cheng, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC).</strong></i> 2025.
   </li>
+    <li id="FA-Pub6"> 
+    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
+     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yihan Sun#</span>, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
+    <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
+  </li>
 
 
 
@@ -67,11 +72,7 @@ My research focuses on **industrial visual inspection**, covering areas such as 
     <i>Submitted to Neural Information Processing Systems <strong>(NeurIPS 2025)</strong></i>. (Under Review)
   </li>
 
-  <li id="FA-Manuscript1"> 
-    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
-     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yihan Sun#</span>, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
-    <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
-  </li>
+
 
 
 
