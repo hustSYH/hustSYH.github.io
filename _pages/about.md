@@ -69,7 +69,7 @@ My research focuses on **industrial visual inspection**, covering areas such as 
   <li id="FA-Manuscript1"> 
     Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <a href="https://arxiv.org/abs/2505.10996">[Paper]</a> <a href="https://github.com/hustCYQ/M2AD">[Code]</a> <br> 
      Yunkang Cao#, Yuqi Cheng#, Xiaohao Xu, Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuxiang Tan, Yuxin Zhang, Xiaonan Huang, Weiming Shen* <br>
-    <i>Submitted to Neural Information Processing Systems <strong>(PR 2026)</strong></i>. (Under Review)
+    <i>Submitted to Pattern Recognition <strong>(PR 2026)</strong></i>. (Under Review)
   </li>
 
 
