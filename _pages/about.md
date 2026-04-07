@@ -44,16 +44,24 @@ My research focuses on **industrial visual inspection**, covering areas such as 
 
 
 
+  <li id="FA-Pub7"> 
+    Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark <a href="https://arxiv.org/abs/2505.10996">[Paper]</a> <a href="https://github.com/hustCYQ/M2AD">[Code]</a> <br> 
+    Yunkang Cao#, Yuqi Cheng#, Yuxin Zhang, Xiaohao Xu, Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuxiang Tan, Xiaonan Huang, Weiming Shen* <br>
+    <i>Pattern Recognition <strong>(PR 2026)</strong></i>.
+  </li>
+
+  <li id="FA-Pub6"> 
+    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
+     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yihan Sun#</span>, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
+    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI Oral 2026)</strong></i>.
+  </li>
+  
   <li id="FA-Pub6"> 
     Multi-View Reconstruction with Global Context for 3D Anomaly Detection <a href="https://arxiv.org/abs/2507.21555">[Paper]</a> <a href="https://github.com/hustSYH/MVR">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yihan Sun</span>, Yuqi Cheng, Yunkang Cao, Yuxin Zhang, Weiming Shen* <br>
     <i>IEEE International Conference on Systems, Man, and Cybernetics <strong>(IEEE SMC 2025)</strong></i>.
   </li>
-    <li id="FA-Pub6"> 
-    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
-     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yihan Sun#</span>, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
-    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI Oral 2026)</strong></i>.
-  </li>
+  
 
 
 
